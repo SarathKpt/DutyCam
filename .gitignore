@@ -11,3 +11,8 @@ app/build/
 # OS
 .DS_Store
 Thumbs.db
+
+#ai
+.planning/
+.agents/
+*.md
